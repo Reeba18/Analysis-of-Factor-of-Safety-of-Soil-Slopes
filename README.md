@@ -11,13 +11,18 @@ Soil slopes of heights (h) 3m,6m,9m and 12m are taken into consideration.
 Different slope angles of 2H:1V,1.5H:1V,1H:1V and 0.5H:1V are provided for each height.
 Soils of various strength parameters are to be analysed.
 The data used is firat-hand and is generated using a Civil Engineering software named PLAXIS-2D.
-The data is then analysed using Excel and visualizations are created using Tableau.
+
 
 ## Objective
 
 Analysis of Factors of Safety at different slope heights, slope angles and strength parameters of soil such as cohesion and angle of internal friction.
 This in turn helps geotechnical engineers gain deeper understanding of the stability of existing slopes, assess the possibility of landslides in natural 
 and engineered slopes, enable redesign of failed slopes and planning of prevententive measures and study the effect of seismic loading on embankments and slopes.
+
+## Tools
+
+The data is analysed using Excel and visualizations are created using Tableau. Please use the following link to access it:
+https://public.tableau.com/app/profile/reeba1597/viz/FactorofSafetyofSoilSlopes/Dashboard
 
 ## Results
 
