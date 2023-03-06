@@ -16,8 +16,8 @@ The data used is firat-hand and is generated using a Civil Engineering software 
 ## Objective
 
 Analysis of Factors of Safety at different slope heights, slope angles and strength parameters of soil such as cohesion and angle of internal friction.
-This in turn helps geotechnical engineers gain deeper understanding of the stability of existing slopes, assess the possibility of landslides in natural 
-and engineered slopes, enable redesign of failed slopes and planning of prevententive measures and study the effect of seismic loading on embankments and slopes.
+This helps to understand the trends in FOS which,in turn, helps geotechnical engineers gain deeper understanding of the stability of existing slopes, 
+assess the possibility of landslides in natural and engineered slopes, enable redesign of failed slopes and planning of prevententive measures and study the effect of seismic loading on embankments and slopes.
 
 ## Tools
 
