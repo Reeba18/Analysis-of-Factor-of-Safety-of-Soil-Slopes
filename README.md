@@ -15,7 +15,7 @@ assess the possibility of landslides in natural and engineered slopes, enable re
 
 Soil slopes of heights (h) 3m,6m,9m and 12m are taken into consideration.
 Different slope angles of 2H:1V,1.5H:1V,1H:1V and 0.5H:1V are provided for each height.
-Soils of various strength parameters are to be analysed.
+The strength parameters of soil considered for the study are cohesion (c) and angle of internal friction (Փ).
 The data used is first-hand and is generated using a Civil Engineering software called PLAXIS.The datasets are clean and devoid of nulls or duplicated records.The data is correct,consistent and accurate.
 
 ## Tools
