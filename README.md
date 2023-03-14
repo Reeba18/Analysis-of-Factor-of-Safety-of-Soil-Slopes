@@ -9,7 +9,7 @@ The factor of safety (FS)  is defined as the ratio of the sum of resisting force
 
 Analysis of Factors of Safety at different slope heights, slope angles and strength parameters of soil such as cohesion and angle of internal friction.
 This helps to understand the trends in FS which,in turn, helps geotechnical engineers gain deeper understanding of the stability of existing slopes, 
-assess the possibility of landslides in natural and engineered slopes, enable redesign of failed slopes and planning of prevententive measures and study the effect of seismic loading on embankments and slopes.
+assess the possibility of landslides in natural and engineered slopes, enable redesign of failed slopes and planning of preventive measures and study the effect of seismic loading on embankments and slopes.
 
 ## Data
 
