@@ -14,7 +14,7 @@ assess the possibility of landslides in natural and engineered slopes, enable re
 ## Data
 
 Soil slopes of heights (h) 3m,6m,9m and 12m are taken into consideration.
-Different slope angles of 2H:1V,1.5H:1V,1H:1V and 0.5H:1V are provided for each height.
+Different slope angles of 2H:1V,1.5H:1V,1H:1V and 0.5H:1V are considered for each height.
 The strength parameters of soil considered for the study are cohesion (c) and angle of internal friction (Փ).
 The data used is first-hand and is generated using a Civil Engineering software called PLAXIS.The datasets are clean and devoid of nulls or duplicated records.The data is correct,consistent and accurate.
 
@@ -29,5 +29,5 @@ It can be noted that under no surcharge (loading) conditions with other paramete
 
 1.	Factor of safety increases with increase in cohesion value
 2.	Factor of safety increases with increase in the value of friction angle and
-3.	Factor of safety decreases as the slope angle increases
-4. Factor of safety decreases as the slope is of a greater height
+3.  Factor of safety decreases as the slope angle increases
+4.  Factor of safety decreases as the slope is of a greater height
