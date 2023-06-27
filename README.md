@@ -21,7 +21,7 @@ The data used is first-hand and is generated using a Civil Engineering software 
 ## Tools
 
 The data is explored and cleaned using the Pandas library of Python and visualizations are created using Tableau. Please use the following link to access it:
-https://public.tableau.com/app/profile/reeba1597/viz/FactorofSafetyofSoilSlopes/Dashboard
+[https://public.tableau.com/app/profile/reeba1597/viz/FactorofSafetyofSoilSlopes/Dashboard](https://public.tableau.com/app/profile/reeba1597/viz/SlopeStabilityAnalysis/Dashboard3)
 Moreover,predictive analysis has been carried out on the data using Python.
 
 ## Results
