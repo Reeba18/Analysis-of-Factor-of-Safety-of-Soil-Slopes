@@ -1,3 +1,5 @@
+View this project on : https://mavenanalytics.io/project/8993
+
 ## Introduction
 
 Slope is an unsupported inclined mass of soil or rock.Natural slopes are those formed by natural causes and they include hills and valley slopes.
